@@ -2,8 +2,9 @@
 
 A multiuser chat service created using golang.
 
-> ![WARNING]
+> **WARNING**
 > This is an educational project and not to be used for anything serious.
+> This project is current under development and not ready for use.
 
 # References
 
